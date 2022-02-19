@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @reza0221
 - 👀 I’m interested in developing my learning skillset 
 - 🌱 I’m currently learning Data Science, HSE, and Project Management for working in oil & gas industry
-- 💞️ I’m looking to collaborate on in the field of Data Science and its application in the oil and gas industry
+- 💞️ I’m looking to collaborate on Data Science and its application in the oil and gas industry
 - 📫 How to reach me? https://www.linkedin.com/in/reza-vahlevi-832510188/
 
 <!---
