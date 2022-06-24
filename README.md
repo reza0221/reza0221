@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @reza0221
 - 👀 I’m interested in developing my learning skillset.
-- 🌱 I’m currently learning Data Science, HSE, and Project Management for working in IT Consulting/Services and Oil & Gas Industry.
 - 💞️ I’m looking to collaborate on Data Science Projects.
 - 📫 Connect with me on www.linkedin.com/in/reza-vahlevi-832510188
 
