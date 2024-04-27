@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @reza0221
-- 👀 I’m interested in developing my learning skillset.
-- 💞️ I’m looking to collaborate on Data Science Projects.
+- 👋 Hi, I’m Reza Vahlevi
 - 📫 Connect with me on www.linkedin.com/in/reza-v-832510188
 
 <!---
